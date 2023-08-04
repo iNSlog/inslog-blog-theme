@@ -1,1 +1,1 @@
-# inslogBolgTheme
+# inslog-bolg-theme
